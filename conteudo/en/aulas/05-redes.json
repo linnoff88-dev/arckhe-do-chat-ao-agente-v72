@@ -1,0 +1,395 @@
+{
+  "slug": "redes",
+  "num": 5,
+  "titulo": "Step 4: social media on autopilot, with the source on screen",
+  "titulo_curto": "Social media on autopilot",
+  "minutos": 14,
+  "lead": "r7e builds the reel in seven trigger-based stages. promoavatar makes avatar videos for each audience. The xviral tools watch what the biggest channels in the niche have published, check every number, and publish with the source on screen. The engine is the same: only the topic changes.",
+  "objetivo": "design a channel for your niche with rules, a sourced base, a checked script, a schedule, and a gate before publishing.",
+  "competencias": [
+    "roteiro-r7e",
+    "base-com-fonte",
+    "regras-de-nicho",
+    "agenda-com-portao"
+  ],
+  "aprende": [
+    {
+      "icone": "video",
+      "t": "The reel in 7 stages (r7e)"
+    },
+    {
+      "icone": "lupa",
+      "t": "The base with a literal source"
+    },
+    {
+      "icone": "escudo",
+      "t": "The rules of your niche"
+    },
+    {
+      "icone": "calendario",
+      "t": "Schedule with a gate"
+    }
+  ],
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The pipeline of a channel with a source",
+      "sub": "This is what finviral, saudeviral, and advviral do on their own.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "References",
+          "sub": "5 channels in the niche",
+          "itens": [
+            {
+              "icone": "arquivo",
+              "t": "canais.md"
+            },
+            {
+              "icone": "escudo",
+              "t": "regras.md"
+            }
+          ],
+          "detalhe": "The biggest channels in your niche and the rules: what counts as a fact, the required notice, and what you never publish."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Base with source",
+          "sub": "base.md",
+          "itens": [
+            {
+              "icone": "lista",
+              "t": "Number or fact",
+              "sub": "what goes on screen"
+            },
+            {
+              "icone": "usuario",
+              "t": "Who said it",
+              "sub": "channel and video"
+            },
+            {
+              "icone": "chat",
+              "t": "Literal excerpt",
+              "sub": "found in the transcript"
+            }
+          ],
+          "detalhe": "From the transcript, each number goes in with who said it, the video, and the literal excerpt. You check each excerpt against the transcript.",
+          "forte": true
+        },
+        {
+          "icone": "video",
+          "titulo": "Script",
+          "sub": "60 s with the source on screen",
+          "itens": [
+            {
+              "icone": "grafico",
+              "t": "Opens with the strongest number"
+            },
+            {
+              "icone": "escudo",
+              "t": "Niche notice"
+            }
+          ],
+          "detalhe": "The agent writes the script using only what is in the base. A number that isn't in the base? The script goes back."
+        },
+        {
+          "icone": "portao",
+          "titulo": "Gate",
+          "sub": "You approve",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "A rejection becomes a rule"
+            }
+          ],
+          "detalhe": "Before publishing, you approve. Each rejection becomes a new rule in regras.md."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Schedule",
+          "sub": "cron or timer",
+          "itens": [
+            {
+              "icone": "relogio",
+              "t": "A weak day doesn't become a video"
+            },
+            {
+              "icone": "enviar",
+              "t": "A failure alerts you on Telegram"
+            }
+          ],
+          "detalhe": "You decide how often (e.g., Monday to Friday in the early morning and a long one on Saturday). A day with no topic doesn't become a video, and a failure alerts you on Telegram."
+        }
+      ],
+      "volta": "Every refusal at the gate becomes a new rule",
+      "legenda": "Without a queue and a gate, automating social media just means posting the wrong thing faster.",
+      "rolagem": true,
+      "rolagem_fim": {
+        "titulo": "The whole pipeline",
+        "texto": "References and rules feed the base with a source; the base limits the script; the gate decides what goes out; the schedule posts only on days with a topic. Every refusal becomes a new rule."
+      }
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The reel in 7 stages (r7e)",
+      "sub": "Click each step. Illustrative example for the real estate niche.",
+      "passos": [
+        {
+          "titulo": "Hook",
+          "sub": "The result in 2 s",
+          "texto": [
+            "The first sentence already states the gain. No \"Imagine that...\"."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "You may be paying rent above the going rate for your area."
+          }
+        },
+        {
+          "titulo": "Desire",
+          "sub": "What the person wants",
+          "texto": [
+            "Show what changes in the life of the person watching."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "Pay a fair price and use the difference on what matters."
+          }
+        },
+        {
+          "titulo": "Fear",
+          "sub": "What they lose",
+          "texto": [
+            "The cost of doing nothing, without exaggeration."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "Every month you don't check is money you don't get back."
+          }
+        },
+        {
+          "titulo": "Ease",
+          "sub": "It's simple",
+          "texto": [
+            "Show that the first step is small."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "It takes five minutes and all you need is the address."
+          }
+        },
+        {
+          "titulo": "Discovery",
+          "sub": "The name of the solution",
+          "texto": [
+            "This is where the name comes in: the tool, the method, the course."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "Use the price table by neighborhood that I left in the link."
+          }
+        },
+        {
+          "titulo": "Benefit",
+          "sub": "The concrete gain",
+          "texto": [
+            "The result the person takes away, again and more concrete."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "You get to the contract renewal with the number in hand."
+          }
+        },
+        {
+          "titulo": "Comment",
+          "sub": "comment WORD",
+          "texto": [
+            "The final invitation, with just one word."
+          ],
+          "exemplo": {
+            "rot": "Example",
+            "texto": "Comment RENT and I'll send you the table."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Your channel's templates",
+      "sub": "Copy and fill in for your niche.",
+      "blocos": [
+        {
+          "rot": "reel-r7e.md",
+          "icone": "arquivo",
+          "conteudo": "| # | Step | Your sentence |\n|---|---|---|\n| 1 | Hook (the result in 2 s) | |\n| 2 | Desire | |\n| 3 | Fear | |\n| 4 | Ease | |\n| 5 | Discovery (the name of the solution) | |\n| 6 | Benefit | |\n| 7 | Comment (\"comment WORD\") | |"
+        },
+        {
+          "rot": "regras.md",
+          "icone": "escudo",
+          "conteudo": "# Niche rules: <your niche>\n\n## What counts as a fact\n- \n\n## Required disclaimer\n- E.g.: \"this is not investment advice\" / \"this does not replace a consultation\"\n\n## Never publish\n- \n\n## Rules that came from refusals at the gate\n- "
+        },
+        {
+          "rot": "base.md",
+          "icone": "lista",
+          "conteudo": "| Number or fact | Who said it | Video | Literal excerpt |\n|---|---|---|---|\n|  |  |  |  |"
+        }
+      ],
+      "saida": {
+        "selo": "real",
+        "abas": [
+          {
+            "rot": "Golden rule",
+            "html": "<p>Every number in the script has to be in <code>base.md</code>, with the literal excerpt found in the transcript. If any number is missing, the script goes back.</p><p>That is exactly what finviral's <code>checar.py</code> does on its own.</p>"
+          },
+          {
+            "rot": "The engines",
+            "html": "<ul><li><b>r7e</b>: a 7-step reel with quality gates.</li><li><b>promoavatar</b>: one video per audience, 12 audiences, with a gate in the middle.</li><li><b>promoavatar3</b>: reach, authority, and promotional for the same audience.</li><li><b>finviral, saudeviral, advviral</b>: the same engine for finance, health, and law.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice: the 6 exercises of sequence 4",
+      "sub": "Prerequisite: sequences 1, 2, and 3.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "E1 · A reel in 7 steps, on paper",
+          "min": "20 min",
+          "texto": "Write a 30 to 45 second reel for your niche using the r7e model.",
+          "pronto": "you can read it aloud in under 45 s and the first sentence already states the benefit."
+        },
+        {
+          "id": "e2",
+          "titulo": "E2 · The 5 for your niche",
+          "min": "20 min",
+          "texto": "Pick 5 reference channels and write the rules for your niche.",
+          "pronto": "you have canais.md and regras.md for your niche."
+        },
+        {
+          "id": "e3",
+          "titulo": "E3 · The base with a source",
+          "min": "30 min",
+          "texto": "Transcribe a reference video and build base.md with the number, who said it, the video and the exact excerpt.",
+          "pronto": "each line has the exact excerpt and you found each one in the transcript."
+        },
+        {
+          "id": "e4",
+          "titulo": "E4 · A 60 s script with the source on screen",
+          "min": "30 min",
+          "texto": "Ask the agent for a script based on the base: the strongest number, three facts with who said them, a warning and an invitation.",
+          "pronto": "every number in the script is in base.md."
+        },
+        {
+          "id": "e5",
+          "titulo": "E5 · The schedule",
+          "min": "20 min",
+          "texto": "Decide how often to post and write the schedule (cron or systemd timer).",
+          "pronto": "the schedule is written and you know what happens on a day with no topic."
+        },
+        {
+          "id": "e6",
+          "titulo": "E6 · The gate before publishing",
+          "min": "1 week",
+          "texto": "Run for one week with manual approval and write down each rejection as a rule.",
+          "pronto": "you went 3 days in a row without having to reject anything.",
+          "dias": 7
+        }
+      ],
+      "fonte": "Full exercises and the extra challenge (3 promoavatar videos for the same audience): <a href=\"https://github.com/inematds/jornada-agentes/blob/main/exercicios/04-redes.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/04-redes.md</a>."
+    },
+    {
+      "tipo": "video",
+      "titulo": "Sequence 4 on video",
+      "sub": "r7e, promoavatar and the viral channel for your niche.",
+      "chave": "seq4-redes"
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Test what you learned",
+      "sub": "The explanation appears after your answer.",
+      "perguntas": [
+        {
+          "p": "The script has a number that is not in base.md. What do you do?",
+          "opcoes": [
+            "Publish it, if the number looks right.",
+            "Replace it with a rounded number.",
+            "Send the script back: every number must be in the base, with the exact excerpt.",
+            "Remove the source from the screen."
+          ],
+          "certa": 2,
+          "explica": "The E4 rule: every number in the script is in base.md. If it isn't, the script goes back.",
+          "cert": true,
+          "ref": "diagrama"
+        },
+        {
+          "p": "What is the first sentence of an r7e reel?",
+          "opcoes": [
+            "A personal introduction.",
+            "The name of the tool.",
+            "The benefit, the result in 2 seconds.",
+            "The invitation to comment."
+          ],
+          "certa": 2,
+          "explica": "The hook is the result in 2 seconds. The name of the solution only appears in step 5 (discovery).",
+          "ref": "passos"
+        },
+        {
+          "p": "When is it reasonable to remove the gate from a step?",
+          "opcoes": [
+            "In the first week, to save time.",
+            "Never, the gate is mandatory for everything.",
+            "After a few days in a row without having to reject anything.",
+            "When the channel passes a thousand subscribers."
+          ],
+          "certa": 2,
+          "explica": "E6 asks for three days in a row without a rejection. Only then think about removing the gate from a step.",
+          "ref": "pratica"
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "To go deeper on step 4",
+      "links": [
+        {
+          "t": "Full course for step 4: Social media on autopilot (8 lessons)",
+          "href": "https://inematds.github.io/do-chat-ao-agente-redes-v72/en/",
+          "icone": "megafone"
+        },
+        {
+          "t": "r7e (reel7etapas)",
+          "href": "https://inematds.github.io/reel7etapas/guia/",
+          "icone": "video"
+        },
+        {
+          "t": "promoavatar",
+          "href": "https://inematds.github.io/promoavatar/guia/",
+          "icone": "megafone"
+        },
+        {
+          "t": "promoavatar3",
+          "href": "https://inematds.github.io/promoavatar3/guia/",
+          "icone": "megafone"
+        },
+        {
+          "t": "finviral",
+          "href": "https://inematds.github.io/finviral/guia/",
+          "icone": "grafico"
+        },
+        {
+          "t": "saudeviral",
+          "href": "https://inematds.github.io/saudeviral/guia/",
+          "icone": "escudo"
+        },
+        {
+          "t": "advviral",
+          "href": "https://inematds.github.io/advviral/guia/",
+          "icone": "lista"
+        }
+      ]
+    }
+  ],
+  "menu": "Social media"
+}

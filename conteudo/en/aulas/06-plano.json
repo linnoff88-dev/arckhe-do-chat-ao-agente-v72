@@ -1,0 +1,233 @@
+{
+  "slug": "plano",
+  "num": 6,
+  "titulo": "Your plan: one step at a time",
+  "titulo_curto": "Your plan and the final video",
+  "minutos": 10,
+  "lead": "You've now seen all four steps. Now it's time to build the plan with dates, do the exercises in order, and only move up when the \"done when\" is true.",
+  "objetivo": "leave with a dated action plan and know how to measure whether each step is solid.",
+  "competencias": [
+    "planejar-jornada",
+    "medir-pronto-quando",
+    "sequenciar-adocao"
+  ],
+  "aprende": [
+    {
+      "icone": "calendario",
+      "t": "Build the plan with dates"
+    },
+    {
+      "icone": "check",
+      "t": "Measure with the \"done when\""
+    },
+    {
+      "icone": "video",
+      "t": "Review the whole journey on video"
+    },
+    {
+      "icone": "alvo",
+      "t": "Check what you learned"
+    }
+  ],
+  "secoes": [
+    {
+      "tipo": "mapa",
+      "titulo": "The training map",
+      "sub": "The four steps, the 23 exercises, and what each step delivers. Tap an exercise to see its \"done when\".",
+      "degraus": [
+        {
+          "aula": "terminal",
+          "icone": "terminal",
+          "quando": "Week 1",
+          "titulo": "Terminal",
+          "sub": "Folder, AGENTS.md, Git and .env",
+          "saida": "An agent working in your folder, with a safety net.",
+          "passo": "The foundation of everything. Six exercises take you from your first mkdir to the agent reading your files and citing the source. Without this step solid, the other three stall."
+        },
+        {
+          "aula": "jarvis",
+          "icone": "robo",
+          "quando": "Week 2",
+          "titulo": "Your Jarvis",
+          "sub": "INTELECTO on Telegram",
+          "saida": "An assistant of your own, with memory and a routine you actually use.",
+          "passo": "Requires step 1 (terminal, folders and .env). From the design in meu-jarvis.md to a routine used five days in a row; the memory test takes two days."
+        },
+        {
+          "aula": "filas",
+          "icone": "fila",
+          "quando": "Week 3",
+          "titulo": "Queues",
+          "sub": "inemaccbot and gate",
+          "saida": "Tasks running overnight, with a gate on what matters.",
+          "passo": "Requires steps 1 and 2. The queue on paper and the homemade queue come before the bot; the task night shows how many come out right on the first try."
+        },
+        {
+          "aula": "redes",
+          "icone": "megafone",
+          "quando": "Week 4 onward",
+          "titulo": "Social media",
+          "sub": "r7e, promoavatar, xviral",
+          "saida": "A niche channel with the source on screen and a schedule with a gate.",
+          "passo": "Requires the previous three: without a queue and without a gate, automating social media just means posting wrong faster. Ends with a week of manual approval."
+        }
+      ],
+      "resultado": {
+        "titulo": "At the end of the training",
+        "texto": "An agent in your folder, an assistant of your own, a queue with gates, and a channel with the source on screen.",
+        "total": "23 exercises"
+      },
+      "rolagem_fim": {
+        "titulo": "The whole training",
+        "texto": "Four steps in sequence, each with its own list of exercises and a verifiable criterion. Only move up when the \"done when\" of the previous step is true."
+      },
+      "legenda": "Required order: each step uses what the previous one built."
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Generate your plan with dates",
+      "sub": "Pick a start date and how much time you have per week. The plan respects the exercises that need days of real use.",
+      "curso": "From chat to agent",
+      "horas_padrao": 5,
+      "degraus": [
+        {
+          "titulo": "Step 1 · Terminal",
+          "aula": "terminal"
+        },
+        {
+          "titulo": "Step 2 · Your Jarvis",
+          "aula": "jarvis"
+        },
+        {
+          "titulo": "Step 3 · Queues",
+          "aula": "filas"
+        },
+        {
+          "titulo": "Step 4 · Social media",
+          "aula": "redes"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — From chat to agent",
+        "inicio": "Start",
+        "ritmo": "Pace",
+        "termino": "Expected finish",
+        "ate": "by",
+        "pronto": "done when",
+        "semanas": "weeks",
+        "travou": "## What got stuck and the rule I created",
+        "h": "h per week",
+        "ex1": "exercise",
+        "exs": "exercises"
+      }
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "The program in three sentences",
+      "itens": [
+        {
+          "t": "Change where the work lives",
+          "texto": "The gain doesn't come from a new model: it comes from taking the work out of the chat and putting it in a folder with rules, Git, and secrets kept out of the text."
+        },
+        {
+          "t": "One step at a time",
+          "texto": "Terminal, assistant, queue, and social media. Each one builds on the one before, and \"done when\" tells you when to move up."
+        },
+        {
+          "t": "You keep deciding",
+          "texto": "A gate before what matters, a refusal that becomes a rule, and the source on screen. Automating isn't letting go."
+        }
+      ]
+    },
+    {
+      "tipo": "video",
+      "titulo": "Explainer video: the whole program",
+      "sub": "Two and a half minutes to review the four steps before you start.",
+      "chave": "jornada-ia"
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Final quiz",
+      "sub": "Four questions about the whole program.",
+      "perguntas": [
+        {
+          "p": "What is the order of the steps?",
+          "opcoes": [
+            "Social media, queues, assistant, terminal.",
+            "Assistant, terminal, social media, queues.",
+            "Terminal, assistant, queues, social media.",
+            "Any order, they're independent."
+          ],
+          "certa": 2,
+          "explica": "Terminal, assistant (Jarvis), queues, and social media. Each step builds on the one before.",
+          "cert": true,
+          "ref": "mapa"
+        },
+        {
+          "p": "What does \"done when\" guarantee?",
+          "opcoes": [
+            "A checkable criterion so you know whether you can move on.",
+            "That the exercise took the stated amount of time.",
+            "That the certificate was issued.",
+            "That the agent won't make mistakes."
+          ],
+          "certa": 0,
+          "explica": "It's the criterion you check: only move on to the next exercise when it's true.",
+          "ref": "pratica"
+        },
+        {
+          "p": "Which of these should never go into a text file in the project?",
+          "opcoes": [
+            "The agent's rules.",
+            "The queue's task list.",
+            "The Telegram bot token.",
+            "The niche's rules."
+          ],
+          "certa": 2,
+          "explica": "Token and keys stay only in the .env, which is in the .gitignore. This applies from step 1 to step 4.",
+          "ref": "mapa"
+        },
+        {
+          "p": "A flow is going to post on the company's behalf every night. What must be in place from the start?",
+          "opcoes": [
+            "A local model.",
+            "Turning off the failure alerts.",
+            "A reel longer than 60 seconds.",
+            "A human gate before publishing."
+          ],
+          "certa": 3,
+          "explica": "Without a queue and a gate, automating social media just means posting the wrong thing faster. The gate only comes off after days in a row without a refusal.",
+          "cert": true,
+          "ref": "mapa"
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Keep going from here",
+      "links": [
+        {
+          "t": "From chat to agent area",
+          "href": "https://eventos.inema.pro/do-chat-ao-agente/",
+          "icone": "camadas"
+        },
+        {
+          "t": "The 23 exercises (journey guide)",
+          "href": "https://inematds.github.io/jornada-agentes/guia/",
+          "icone": "lista"
+        },
+        {
+          "t": "Video series with scripts",
+          "href": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/",
+          "icone": "video"
+        },
+        {
+          "t": "Open courses on INEMA.CLUB",
+          "href": "https://inema.club/",
+          "icone": "seta"
+        }
+      ]
+    }
+  ],
+  "menu": "Plan"
+}

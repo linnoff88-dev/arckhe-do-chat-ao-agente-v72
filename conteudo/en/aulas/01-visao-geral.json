@@ -1,0 +1,257 @@
+{
+  "slug": "visao-geral",
+  "num": 1,
+  "titulo": "From chat to agent: the four steps",
+  "titulo_curto": "The four steps",
+  "minutos": 6,
+  "lead": "In chat, you drive the whole time, and when you close the window, the work stops. The agent reads your files, runs tasks, and keeps going while you do something else. The shift isn't switching models: it's changing where the work happens.",
+  "objetivo": "say which step you're on today and what the next concrete move is.",
+  "competencias": [
+    "mapear-maturidade",
+    "sequenciar-adocao"
+  ],
+  "aprende": [
+    {
+      "icone": "chat",
+      "t": "Why chat has a ceiling"
+    },
+    {
+      "icone": "camadas",
+      "t": "The four steps and the order between them"
+    },
+    {
+      "icone": "alvo",
+      "t": "Find your starting point"
+    },
+    {
+      "icone": "lista",
+      "t": "Build your one-page diagnosis"
+    }
+  ],
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Overview",
+      "sub": "Each step builds on the one before. If you skip the first, you get stuck on the other three.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "terminal",
+          "titulo": "1 · Terminal",
+          "sub": "OSWork",
+          "itens": [
+            {
+              "icone": "pasta",
+              "t": "Project folder",
+              "sub": "where the agent works"
+            },
+            {
+              "icone": "arquivo",
+              "t": "AGENTS.md",
+              "sub": "the rules it reads"
+            },
+            {
+              "icone": "git",
+              "t": "Git to undo",
+              "sub": "rolls back any mistake"
+            }
+          ],
+          "detalhe": "The agent (Claude Code or Codex) works inside a folder of yours, reads a rulebook (AGENTS.md), and you undo any mistake with Git. It's the foundation for everything that comes next.",
+          "forte": true
+        },
+        {
+          "icone": "robo",
+          "titulo": "2 · Assistant",
+          "sub": "Your Jarvis",
+          "itens": [
+            {
+              "icone": "enviar",
+              "t": "Talks through Telegram"
+            },
+            {
+              "icone": "memoria",
+              "t": "Remembers conversations"
+            },
+            {
+              "icone": "usuario",
+              "t": "Your own personality"
+            }
+          ],
+          "detalhe": "With INTELECTO, an assistant of your own on Telegram, with memory and the style you define, using a cloud or local model."
+        },
+        {
+          "icone": "fila",
+          "titulo": "3 · Queues",
+          "sub": "Ten tasks and go to sleep",
+          "itens": [
+            {
+              "icone": "fila",
+              "t": "Durable queue"
+            },
+            {
+              "icone": "relogio",
+              "t": "Resumes if it crashes"
+            },
+            {
+              "icone": "portao",
+              "t": "Human gate"
+            }
+          ],
+          "detalhe": "inemaccbot saves each request as a task, resumes from where it stopped, and halts at a gate when it needs your approval."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "4 · Networks",
+          "sub": "Channel for your niche",
+          "itens": [
+            {
+              "icone": "video",
+              "t": "7-step reel"
+            },
+            {
+              "icone": "lupa",
+              "t": "Source on screen"
+            },
+            {
+              "icone": "calendario",
+              "t": "Schedule with a gate"
+            }
+          ],
+          "detalhe": "r7e, promoavatar, and the xviral channels (finviral, saudeviral, advviral) publishing regularly, with checked numbers and the source on screen."
+        }
+      ],
+      "volta": "Each step reuses the one before: folder, rules, secrets, and gate",
+      "legenda": "No miracles: there's no \"render while you sleep\" if the system doesn't run correctly.",
+      "rolagem": true,
+      "rolagem_fim": {
+        "titulo": "All four together",
+        "texto": "Each step reuses the one before: the terminal's folder and rules, the .env with the keys, the queue that holds the tasks, and the gate before what matters. That's why the order isn't optional."
+      }
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Find your starting point",
+      "sub": "Click the situation that looks most like yours today.",
+      "passos": [
+        {
+          "titulo": "I only use chat",
+          "sub": "ChatGPT, Claude, Gemini",
+          "texto": [
+            "Start at step 1. Do the <b>OSWork Quick</b> and then right away the six exercises of sequence 1.",
+            "Goal for the first week: get to your folder using only the terminal and watch the agent create a file inside it."
+          ],
+          "exemplo": {
+            "rot": "First step",
+            "texto": "Open the terminal and create the folder projetos/meu-primeiro-agente."
+          }
+        },
+        {
+          "titulo": "I already use the terminal",
+          "sub": "Claude Code or Codex",
+          "texto": [
+            "You're already at step 1. Check that you have AGENTS.md, Git, and .env in .gitignore; if you do, move up to step 2.",
+            "Install your own Jarvis with <b>INTELECTO</b> and take its course."
+          ],
+          "exemplo": {
+            "rot": "First step",
+            "texto": "Write the meu-jarvis.md before installing anything."
+          }
+        },
+        {
+          "titulo": "I already have an assistant",
+          "sub": "Running on Telegram",
+          "texto": [
+            "Time for the queue. Before installing <b>inemaccbot</b>, run the homemade queue in 30 lines to understand entrada, feito, and falhou.",
+            "Then list 10 repetitive tasks and mark where you need a gate."
+          ],
+          "exemplo": {
+            "rot": "First step",
+            "texto": "Fill in the table of 10 tasks, with at least two of them having a gate."
+          }
+        },
+        {
+          "titulo": "I already have a queue",
+          "sub": "And I want to publish",
+          "texto": [
+            "Step 4. Use <b>r7e</b> for the format and <b>finviral</b> as the template for your niche's channel.",
+            "Write the niche rules before automating: with no queue and no gate, automating social media just means posting the wrong thing faster."
+          ],
+          "exemplo": {
+            "rot": "First step",
+            "texto": "Pick 5 reference channels and write canais.md and regras.md."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Your one-page diagnosis",
+      "sub": "Copy it, fill it in, and save it in your project folder. It becomes the map of your training.",
+      "blocos": [
+        {
+          "rot": "diagnostico.md",
+          "icone": "arquivo",
+          "conteudo": "# My diagnosis — From chat to agent\n\n## Where I am today\n- [ ] I only use the chat\n- [ ] I use the terminal with Claude Code or Codex\n- [ ] I have an assistant of my own running\n- [ ] I have a task queue with a gate\n\n## What makes me lose time (3 items)\n1.\n2.\n3.\n\n## Next step and date\nStep:\nFirst exercise:\nBy (date):\n\n## How I'll know it worked\n\"Done when\":"
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Filled-in example",
+            "html": "<ul><li><b>Where I am:</b> I use Claude in the browser every day.</li><li><b>I lose time on:</b> rewriting proposals, summarizing meetings, answering the same questions.</li><li><b>Next step:</b> 1 · Terminal. Exercise E1 by Friday.</li><li><b>Done when:</b> I get to the folder using only the terminal and can tell which folder I'm in.</li></ul>"
+          },
+          {
+            "rot": "Why write it down",
+            "html": "<p>Writing down your starting point prevents the most common mistake: skipping step 1 because it seems simple. The diagnosis is also the first file the agent will read when you get to the terminal.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Test what you learned",
+      "sub": "The explanation appears after your answer.",
+      "perguntas": [
+        {
+          "p": "What is the core difference between the chat and the agent?",
+          "opcoes": [
+            "The agent is always free.",
+            "The agent works on your files and keeps going without you directing every step.",
+            "The chat can't write code.",
+            "The agent uses a smarter model."
+          ],
+          "certa": 1,
+          "explica": "The shift isn't switching models: it's changing where the work happens. The agent reads your folder, runs tasks, and keeps working when you close the window.",
+          "ref": "diagrama"
+        },
+        {
+          "p": "Why shouldn't you skip sequence 1?",
+          "opcoes": [
+            "Because folders, the terminal, AGENTS.md, and secrets kept out of the text are the foundation for the other three.",
+            "Because the terminal is only required on Windows.",
+            "Because Jarvis only runs after a month of use.",
+            "Because the course requires a set order to issue a certificate."
+          ],
+          "certa": 0,
+          "explica": "Anyone who skips sequence 1 gets stuck in the other three. Assistant, queue, and social media use folders, rules, .env, and Git all the time.",
+          "cert": true,
+          "ref": "diagrama"
+        },
+        {
+          "p": "You already use Claude Code in your folder, and you have AGENTS.md and Git. What's the next step?",
+          "opcoes": [
+            "Automate the social media.",
+            "Install the queue before the assistant.",
+            "Design and install your own Jarvis (step 2).",
+            "Go back to the chat to practice prompts."
+          ],
+          "certa": 2,
+          "explica": "With step 1 solid, the next one is your own assistant: design the meu-jarvis.md and install INTELECTO.",
+          "ref": "passos"
+        }
+      ]
+    }
+  ],
+  "menu": "Steps"
+}

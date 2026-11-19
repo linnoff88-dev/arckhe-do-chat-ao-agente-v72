@@ -1,0 +1,257 @@
+{
+  "slug": "visao-geral",
+  "num": 1,
+  "titulo": "Del chat al agente: los cuatro niveles",
+  "titulo_curto": "Los cuatro niveles",
+  "minutos": 6,
+  "lead": "En el chat tú diriges todo el tiempo y, cuando cierras la ventana, el trabajo se detiene. El agente lee tus archivos, ejecuta tareas y sigue mientras tú haces otra cosa. El cambio no es cambiar de modelo: es cambiar de lugar.",
+  "objetivo": "decir en qué nivel estás hoy y cuál es el próximo paso concreto.",
+  "competencias": [
+    "mapear-maturidade",
+    "sequenciar-adocao"
+  ],
+  "aprende": [
+    {
+      "icone": "chat",
+      "t": "Por qué el chat tiene un techo"
+    },
+    {
+      "icone": "camadas",
+      "t": "Los cuatro niveles y el orden entre ellos"
+    },
+    {
+      "icone": "alvo",
+      "t": "Encontrar tu punto de partida"
+    },
+    {
+      "icone": "lista",
+      "t": "Armar tu diagnóstico de una página"
+    }
+  ],
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Visión general",
+      "sub": "Cada nivel usa el anterior. Quien se salta el primero se atasca en los otros tres.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "terminal",
+          "titulo": "1 · Terminal",
+          "sub": "OSWork",
+          "itens": [
+            {
+              "icone": "pasta",
+              "t": "Carpeta del proyecto",
+              "sub": "donde trabaja el agente"
+            },
+            {
+              "icone": "arquivo",
+              "t": "AGENTS.md",
+              "sub": "las reglas que lee"
+            },
+            {
+              "icone": "git",
+              "t": "Git para deshacer",
+              "sub": "revierte cualquier error"
+            }
+          ],
+          "detalhe": "El agente (Claude Code o Codex) trabaja dentro de una carpeta tuya, lee un manual de reglas (AGENTS.md) y tú deshaces cualquier error con Git. Es la base de todo lo que viene después.",
+          "forte": true
+        },
+        {
+          "icone": "robo",
+          "titulo": "2 · Asistente",
+          "sub": "Tu Jarvis",
+          "itens": [
+            {
+              "icone": "enviar",
+              "t": "Habla por Telegram"
+            },
+            {
+              "icone": "memoria",
+              "t": "Recuerda las conversaciones"
+            },
+            {
+              "icone": "usuario",
+              "t": "Personalidad tuya"
+            }
+          ],
+          "detalhe": "Con INTELECTO, un asistente tuyo en Telegram, con memoria y la forma de ser que tú definas, usando un modelo en la nube o local."
+        },
+        {
+          "icone": "fila",
+          "titulo": "3 · Colas",
+          "sub": "Diez tareas y vete a dormir",
+          "itens": [
+            {
+              "icone": "fila",
+              "t": "Cola durable"
+            },
+            {
+              "icone": "relogio",
+              "t": "Retoma si se cae"
+            },
+            {
+              "icone": "portao",
+              "t": "Compuerta humana"
+            }
+          ],
+          "detalhe": "inemaccbot guarda cada pedido como una tarea, retoma desde donde se quedó y se detiene en una compuerta cuando necesita tu aprobación."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "4 · Redes",
+          "sub": "Canal de tu nicho",
+          "itens": [
+            {
+              "icone": "video",
+              "t": "Reel en 7 etapas"
+            },
+            {
+              "icone": "lupa",
+              "t": "Fuente en pantalla"
+            },
+            {
+              "icone": "calendario",
+              "t": "Agenda con compuerta"
+            }
+          ],
+          "detalhe": "r7e, promoavatar y los xviral (finviral, saudeviral, advviral) publicando con regularidad, con el número verificado y la fuente en pantalla."
+        }
+      ],
+      "volta": "Cada nivel reutiliza el anterior: carpeta, reglas, secretos y compuerta",
+      "legenda": "Sin milagros: no existe \"render mientras duermes\" si el sistema no corre bien.",
+      "rolagem": true,
+      "rolagem_fim": {
+        "titulo": "Los cuatro juntos",
+        "texto": "Cada nivel reutiliza el anterior: la carpeta y las reglas de la terminal, el .env con las claves, la cola que guarda las tareas y la compuerta antes de lo que importa. Por eso el orden no es opcional."
+      }
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Encuentra tu punto de partida",
+      "sub": "Haz clic en la situación que más se parezca a la tuya hoy.",
+      "passos": [
+        {
+          "titulo": "Uso solo el chat",
+          "sub": "ChatGPT, Claude, Gemini",
+          "texto": [
+            "Empieza por el nivel 1. Haz el <b>OSWork Quick</b> y, justo después, los seis ejercicios de la secuencia 1.",
+            "Meta de la primera semana: llegar a tu carpeta solo desde la terminal y ver al agente crear un archivo allí dentro."
+          ],
+          "exemplo": {
+            "rot": "Primer paso",
+            "texto": "Abrir la terminal y crear la carpeta projetos/meu-primeiro-agente."
+          }
+        },
+        {
+          "titulo": "Ya uso la terminal",
+          "sub": "Claude Code o Codex",
+          "texto": [
+            "Ya estás en el nivel 1. Comprueba si tienes AGENTS.md, Git y .env en el .gitignore; si los tienes, sube al nivel 2.",
+            "Instala tu Jarvis con el <b>INTELECTO</b> y haz su curso."
+          ],
+          "exemplo": {
+            "rot": "Primer paso",
+            "texto": "Escribir el meu-jarvis.md antes de instalar cualquier cosa."
+          }
+        },
+        {
+          "titulo": "Ya tengo un asistente",
+          "sub": "Funcionando en Telegram",
+          "texto": [
+            "Es la hora de la cola. Antes de instalar el <b>inemaccbot</b>, ejecuta la cola casera de 30 líneas para entender entrada, feito y falhou.",
+            "Después, haz una lista de 10 tareas repetitivas y marca dónde necesitas una compuerta."
+          ],
+          "exemplo": {
+            "rot": "Primer paso",
+            "texto": "Completar la tabla de las 10 tareas, con al menos dos con compuerta."
+          }
+        },
+        {
+          "titulo": "Ya tengo cola",
+          "sub": "Y quiero publicar",
+          "texto": [
+            "Nivel 4. Usa el <b>r7e</b> para el formato y el <b>finviral</b> como molde del canal de tu nicho.",
+            "Escribe las reglas del nicho antes de automatizar: sin cola y sin compuerta, automatizar redes sociales se convierte en publicar mal más rápido."
+          ],
+          "exemplo": {
+            "rot": "Primer paso",
+            "texto": "Elegir 5 canales de referencia y escribir canais.md y regras.md."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Tu diagnóstico de una página",
+      "sub": "Cópialo, complétalo y guárdalo en la carpeta de tu proyecto. Se convierte en el mapa de tu formación.",
+      "blocos": [
+        {
+          "rot": "diagnostico.md",
+          "icone": "arquivo",
+          "conteudo": "# Mi diagnóstico — Del chat al agente\n\n## Dónde estoy hoy\n- [ ] Uso solo el chat\n- [ ] Uso la terminal con Claude Code o Codex\n- [ ] Tengo un asistente mío funcionando\n- [ ] Tengo una cola de tareas con compuerta\n\n## Qué me hace perder tiempo (3 ítems)\n1.\n2.\n3.\n\n## Próximo nivel y fecha\nNivel:\nPrimer ejercicio:\nHasta (fecha):\n\n## Cómo sabré que salió bien\n\"Listo cuando\":"
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Ejemplo completado",
+            "html": "<ul><li><b>Dónde estoy:</b> uso Claude en el navegador todos los días.</li><li><b>Pierdo tiempo:</b> reescribiendo propuestas, resumiendo reuniones, respondiendo las mismas preguntas.</li><li><b>Próximo nivel:</b> 1 · Terminal. Ejercicio E1 hasta el viernes.</li><li><b>Listo cuando:</b> llego a la carpeta solo desde la terminal y sé decir en qué carpeta estoy.</li></ul>"
+          },
+          {
+            "rot": "Por qué escribirlo",
+            "html": "<p>Escribir el punto de partida evita el error más común: saltarse el nivel 1 porque parece simple. El diagnóstico también es el primer archivo que el agente va a leer cuando llegues a la terminal.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Pon a prueba lo que aprendiste",
+      "sub": "La explicación aparece después de tu respuesta.",
+      "perguntas": [
+        {
+          "p": "¿Cuál es la diferencia central entre el chat y el agente?",
+          "opcoes": [
+            "El agente siempre es gratuito.",
+            "El agente trabaja en tus archivos y sigue sin que tú dirijas cada paso.",
+            "El chat no puede escribir código.",
+            "El agente usa un modelo más inteligente."
+          ],
+          "certa": 1,
+          "explica": "El cambio no es de modelo: es de lugar. El agente lee tu carpeta, ejecuta tareas y sigue trabajando cuando cierras la ventana.",
+          "ref": "diagrama"
+        },
+        {
+          "p": "¿Por qué no conviene saltarse la secuencia 1?",
+          "opcoes": [
+            "Porque las carpetas, la terminal, AGENTS.md y los secretos fuera del texto son la base de las otras tres.",
+            "Porque la terminal es obligatoria solo en Windows.",
+            "Porque Jarvis solo funciona después de un mes de uso.",
+            "Porque el curso exige un orden para emitir el certificado."
+          ],
+          "certa": 0,
+          "explica": "Quien se salta la secuencia 1 se atasca en las otras tres. Asistente, cola y redes usan carpeta, reglas, .env y Git todo el tiempo.",
+          "cert": true,
+          "ref": "diagrama"
+        },
+        {
+          "p": "Ya usas Claude Code en tu carpeta, tienes AGENTS.md y Git. ¿Cuál es el siguiente paso?",
+          "opcoes": [
+            "Automatizar las redes sociales.",
+            "Instalar la cola antes del asistente.",
+            "Diseñar e instalar tu Jarvis (nivel 2).",
+            "Volver al chat para practicar prompts."
+          ],
+          "certa": 2,
+          "explica": "Con el nivel 1 firme, el siguiente es el asistente propio: diseñar el meu-jarvis.md e instalar INTELECTO.",
+          "ref": "passos"
+        }
+      ]
+    }
+  ],
+  "menu": "Niveles"
+}
