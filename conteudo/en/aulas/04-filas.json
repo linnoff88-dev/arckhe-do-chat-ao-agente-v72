@@ -2,7 +2,7 @@
   "slug": "filas",
   "num": 4,
   "titulo": "Step 3: queues — ten tasks and go to sleep",
-  "titulo_curto": "Queues (inemaccbot)",
+  "titulo_curto": "Queues (ARCKHÉccbot)",
   "minutos": 12,
   "lead": "A single agent does one thing at a time, and only while you're watching. With a durable queue, each request becomes a saved task, resumed if it crashes, and the flows stop at a gate before anything that matters.",
   "objetivo": "decide what goes into the queue, where the gates are, and how to check the result the next day.",
@@ -54,7 +54,7 @@
               "t": "Explainer video"
             }
           ],
-          "detalhe": "Each request becomes a task: in inemaccbot, a message on Telegram; in the homemade queue, a .md file in the entrada/ folder."
+          "detalhe": "Each request becomes a task: in ARCKHÉccbot, a message on Telegram; in the homemade queue, a .md file in the entrada/ folder."
         },
         {
           "icone": "fila",
@@ -105,7 +105,7 @@
         }
       ],
       "volta": "Running again only picks up what is left",
-      "legenda": "Examples of flows that become tasks in inemaccbot: transcribe, dub, explainer video, course and reel.",
+      "legenda": "Examples of flows that become tasks in ARCKHÉccbot: transcribe, dub, explainer video, course and reel.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "One night of queue",
@@ -194,7 +194,7 @@
         },
         {
           "id": "e3",
-          "titulo": "E3 · Install inemaccbot",
+          "titulo": "E3 · Install ARCKHÉccbot",
           "min": "1 h",
           "texto": "Follow the guide until the bot responds on Telegram. Then test /ajuda and /fila.",
           "pronto": "/ping responds in your Telegram."
@@ -215,12 +215,12 @@
           "pronto": "you rejected or corrected at least one text before approving."
         }
       ],
-      "fonte": "Full exercises and the extra challenge (a new rule for the task that failed the most): <a href=\"https://github.com/inematds/jornada-agentes/blob/main/exercicios/03-filas.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/03-filas.md</a>."
+      "fonte": "Full exercises and the extra challenge (a new rule for the task that failed the most): <a href=\"https://github.com/linnoff88-dev/jornada-agentes/blob/main/exercicios/03-filas.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/03-filas.md</a>."
     },
     {
       "tipo": "video",
       "titulo": "Sequence 3 on video",
-      "sub": "The durable queue of inemaccbot and the approval gate.",
+      "sub": "The durable queue of ARCKHÉccbot and the approval gate.",
       "chave": "seq3-filas"
     },
     {
@@ -273,22 +273,22 @@
       "links": [
         {
           "t": "Full course for step 3: Queues (7 lessons)",
-          "href": "https://inematds.github.io/do-chat-ao-agente-filas-v72/en/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
-          "t": "inemaccbot: installation and architecture guide",
-          "href": "https://inematds.github.io/inemaccbot/guia/",
+          "t": "ARCKHÉccbot: installation and architecture guide",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
-          "t": "INEMACCBOT course with Promoavatar",
-          "href": "https://eventos.inema.pro/inemaccbot.html",
+          "t": "ARCKHÉCCBOT course with Promoavatar",
+          "href": "https://eventos.ARCKHÉ.pro/ARCKHÉccbot.html",
           "icone": "lista"
         },
         {
           "t": "jornada-agentes repository (homemade queue)",
-          "href": "https://github.com/inematds/jornada-agentes",
+          "href": "https://github.com/linnoff88-dev/jornada-agentes",
           "icone": "git"
         }
       ]

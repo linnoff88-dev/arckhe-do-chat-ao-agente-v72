@@ -58,7 +58,7 @@
           "icone": "fila",
           "quando": "Semana 3",
           "titulo": "Colas",
-          "sub": "inemaccbot y compuerta",
+          "sub": "ARCKHÉccbot y compuerta",
           "saida": "Tareas corriendo de noche, con compuerta en lo que importa.",
           "passo": "Requiere los niveles 1 y 2. La cola en papel y la cola casera van antes del bot; la noche de tareas muestra cuántas salen bien a la primera."
         },
@@ -208,22 +208,22 @@
       "links": [
         {
           "t": "Área Del chat al agente",
-          "href": "https://eventos.inema.pro/do-chat-ao-agente/",
+          "href": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/",
           "icone": "camadas"
         },
         {
           "t": "Los 23 ejercicios (guía del recorrido)",
-          "href": "https://inematds.github.io/jornada-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Serie de videos con guiones",
-          "href": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "video"
         },
         {
-          "t": "Cursos abiertos en INEMA.CLUB",
-          "href": "https://inema.club/",
+          "t": "Cursos abiertos en ARCKHÉ AI",
+          "href": "https://ARCKHÉ AI/",
           "icone": "seta"
         }
       ]

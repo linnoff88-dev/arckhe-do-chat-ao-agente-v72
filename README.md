@@ -1,4 +1,4 @@
-﻿# Do chat ao agente â€” curso (INEMA Learning v7.2)
+# Do chat ao agente â€” curso (ARCKHÉ Learning v7.2)
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,13 +6,13 @@
 </div>
 
 
-VisÃ£o geral da formaÃ§Ã£o [Do chat ao agente](https://eventos.inema.pro/do-chat-ao-agente/) em 6 aulas curtas: terminal (OSWork), o seu Jarvis (INTELECTO), filas (inemaccbot) e redes no automÃ¡tico (r7e, promoavatar, xviral), com plano de execuÃ§Ã£o e vÃ­deo explicativo no fim.
+VisÃ£o geral da formaÃ§Ã£o [Do chat ao agente](https://eventos.ARCKHÉ.pro/do-chat-ao-agente/) em 6 aulas curtas: terminal (OSWork), o seu Jarvis (INTELECTO), filas (ARCKHÉccbot) e redes no automÃ¡tico (r7e, promoavatar, xviral), com plano de execuÃ§Ã£o e vÃ­deo explicativo no fim.
 
-**Abrir o curso:** https://inematds.github.io/do-chat-ao-agente-v72/
+**Abrir o curso:** https://linnoff88-dev.github.io/
 
-**Outros idiomas:** [English](https://inematds.github.io/do-chat-ao-agente-v72/en/) Â· [EspaÃ±ol](https://inematds.github.io/do-chat-ao-agente-v72/es/) â€” seletor PT Â· EN Â· ES no topo de cada pÃ¡gina.
+**Outros idiomas:** [English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/ â€” seletor PT Â· EN Â· ES no topo de cada pÃ¡gina.
 
-Primeiro curso no formato **INEMA Learning v7.2**: layout de plataforma (barra lateral com capÃ­tulos e progresso, Ã¡rea central larga) com a didÃ¡tica v7 (objetivo em uma linha, diagrama clicÃ¡vel primeiro, texto curto, simulaÃ§Ã£o onde ensina, modelos com botÃ£o copiar, prÃ¡tica com "pronto quando" e teste com resposta comentada).
+Primeiro curso no formato **ARCKHÉ Learning v7.2**: layout de plataforma (barra lateral com capÃ­tulos e progresso, Ã¡rea central larga) com a didÃ¡tica v7 (objetivo em uma linha, diagrama clicÃ¡vel primeiro, texto curto, simulaÃ§Ã£o onde ensina, modelos com botÃ£o copiar, prÃ¡tica com "pronto quando" e teste com resposta comentada).
 
 ## Como funciona
 
@@ -32,15 +32,15 @@ EN e ES: `conteudo/en/` e `conteudo/es/` saem de `traduzir.py` (skill formato-cu
 
 HTML estÃ¡tico, sem build e sem backend. O progresso fica sÃ³ no navegador de quem estuda.
 
-Os vÃ­deos sÃ£o da sÃ©rie *Do chat ao agente* ([jornada-agentes](https://github.com/inematds/jornada-agentes), release `video-v2.0.0`). Os exercÃ­cios completos estÃ£o no mesmo repositÃ³rio.
+Os vÃ­deos sÃ£o da sÃ©rie *Do chat ao agente* ([jornada-agentes](https://github.com/linnoff88-dev/jornada-agentes), release `video-v2.0.0`). Os exercÃ­cios completos estÃ£o no mesmo repositÃ³rio.
 
-ConteÃºdo aberto e gratuito Â· [INEMA.CLUB](https://inema.club)
+ConteÃºdo aberto e gratuito Â· [ARCKHÉ AI](https://ARCKHÉ AI)
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/323-do-chat-ao-agente-terminal-assistente-proprio-filas-e-redes-no-automatico/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/323-do-chat-ao-agente-terminal-assistente-proprio-filas-e-redes-no-automatico/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
 ---
 

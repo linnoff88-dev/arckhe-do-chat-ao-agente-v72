@@ -2,7 +2,7 @@
   "slug": "filas",
   "num": 4,
   "titulo": "Nivel 3: colas — diez tareas y vete a dormir",
-  "titulo_curto": "Colas (inemaccbot)",
+  "titulo_curto": "Colas (ARCKHÉccbot)",
   "minutos": 12,
   "lead": "Un agente solo hace una cosa a la vez y solo mientras tú miras. Con una cola durable, cada pedido se convierte en una tarea guardada, se retoma si se cae, y los flujos se detienen en una compuerta antes de lo que importa.",
   "objetivo": "decidir qué va a la cola, dónde quedan las compuertas y cómo revisar el resultado al día siguiente.",
@@ -54,7 +54,7 @@
               "t": "Video explicativo"
             }
           ],
-          "detalhe": "Cada pedido se convierte en una tarea: en inemaccbot, un mensaje en Telegram; en la cola casera, un archivo .md en la carpeta entrada/."
+          "detalhe": "Cada pedido se convierte en una tarea: en ARCKHÉccbot, un mensaje en Telegram; en la cola casera, un archivo .md en la carpeta entrada/."
         },
         {
           "icone": "fila",
@@ -105,7 +105,7 @@
         }
       ],
       "volta": "Ejecutar de nuevo solo toma lo que quedó",
-      "legenda": "Ejemplos de flujos que se convierten en tareas en inemaccbot: transcribir, doblar, video explicativo, curso y reel.",
+      "legenda": "Ejemplos de flujos que se convierten en tareas en ARCKHÉccbot: transcribir, doblar, video explicativo, curso y reel.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "Una noche de cola",
@@ -194,7 +194,7 @@
         },
         {
           "id": "e3",
-          "titulo": "E3 · Instalar el inemaccbot",
+          "titulo": "E3 · Instalar el ARCKHÉccbot",
           "min": "1 h",
           "texto": "Sigue la guía hasta que el bot responda en Telegram. Después prueba /ajuda y /fila.",
           "pronto": "/ping responde en tu Telegram."
@@ -215,12 +215,12 @@
           "pronto": "rechazaste o corregiste al menos un texto antes de aprobar."
         }
       ],
-      "fonte": "Ejercicios completos y el desafío extra (una regla nueva para la tarea que más falló): <a href=\"https://github.com/inematds/jornada-agentes/blob/main/exercicios/03-filas.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/03-filas.md</a>."
+      "fonte": "Ejercicios completos y el desafío extra (una regla nueva para la tarea que más falló): <a href=\"https://github.com/linnoff88-dev/jornada-agentes/blob/main/exercicios/03-filas.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/03-filas.md</a>."
     },
     {
       "tipo": "video",
       "titulo": "La secuencia 3 en video",
-      "sub": "La cola durable del inemaccbot y la compuerta de aprobación.",
+      "sub": "La cola durable del ARCKHÉccbot y la compuerta de aprobación.",
       "chave": "seq3-filas"
     },
     {
@@ -273,22 +273,22 @@
       "links": [
         {
           "t": "Curso completo del nivel 3: Colas (7 clases)",
-          "href": "https://inematds.github.io/do-chat-ao-agente-filas-v72/es/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
-          "t": "inemaccbot: guía de instalación y arquitectura",
-          "href": "https://inematds.github.io/inemaccbot/guia/",
+          "t": "ARCKHÉccbot: guía de instalación y arquitectura",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
-          "t": "Curso INEMACCBOT con Promoavatar",
-          "href": "https://eventos.inema.pro/inemaccbot.html",
+          "t": "Curso ARCKHÉCCBOT con Promoavatar",
+          "href": "https://eventos.ARCKHÉ.pro/ARCKHÉccbot.html",
           "icone": "lista"
         },
         {
           "t": "Repositorio jornada-agentes (cola casera)",
-          "href": "https://github.com/inematds/jornada-agentes",
+          "href": "https://github.com/linnoff88-dev/jornada-agentes",
           "icone": "git"
         }
       ]

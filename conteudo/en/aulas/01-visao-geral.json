@@ -97,7 +97,7 @@
               "t": "Human gate"
             }
           ],
-          "detalhe": "inemaccbot saves each request as a task, resumes from where it stopped, and halts at a gate when it needs your approval."
+          "detalhe": "ARCKHÉccbot saves each request as a task, resumes from where it stopped, and halts at a gate when it needs your approval."
         },
         {
           "icone": "megafone",
@@ -161,7 +161,7 @@
           "titulo": "I already have an assistant",
           "sub": "Running on Telegram",
           "texto": [
-            "Time for the queue. Before installing <b>inemaccbot</b>, run the homemade queue in 30 lines to understand entrada, feito, and falhou.",
+            "Time for the queue. Before installing <b>ARCKHÉccbot</b>, run the homemade queue in 30 lines to understand entrada, feito, and falhou.",
             "Then list 10 repetitive tasks and mark where you need a gate."
           ],
           "exemplo": {

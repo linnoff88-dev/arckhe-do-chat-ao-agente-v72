@@ -181,7 +181,7 @@
         {
           "rot": "Terminal · download and test the example",
           "icone": "terminal",
-          "conteudo": "git clone https://github.com/inematds/intelecto.git\ncd intelecto/exemplo-jarvis\npython3 -m unittest discover -s . -p 'test_*.py' -v\npython3 smoke.py"
+          "conteudo": "git clone https://github.com/linnoff88-dev/intelecto.git\ncd intelecto/exemplo-jarvis\npython3 -m unittest discover -s . -p 'test_*.py' -v\npython3 smoke.py"
         }
       ],
       "saida": {
@@ -248,7 +248,7 @@
           "dias": 5
         }
       ],
-      "fonte": "Full exercises: <a href=\"https://github.com/inematds/jornada-agentes/blob/main/exercicios/02-jarvis.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/02-jarvis.md</a>. The extra challenge (the task list you send before going to sleep) is the entry point for step 3."
+      "fonte": "Full exercises: <a href=\"https://github.com/linnoff88-dev/jornada-agentes/blob/main/exercicios/02-jarvis.md\" target=\"_blank\" rel=\"noopener\">jornada-agentes/exercicios/02-jarvis.md</a>. The extra challenge (the task list you send before going to sleep) is the entry point for step 3."
     },
     {
       "tipo": "video",
@@ -306,27 +306,27 @@
       "links": [
         {
           "t": "Full course for step 2: Your Jarvis (8 lessons)",
-          "href": "https://inematds.github.io/do-chat-ao-agente-jarvis-v72/en/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         },
         {
           "t": "INTELECTO: the personal assistant",
-          "href": "https://inematds.github.io/intelecto/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cerebro"
         },
         {
           "t": "INTELECTO course",
-          "href": "https://inematds.github.io/intelecto-curso/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "JARVIS area in Eventos",
-          "href": "https://eventos.inema.pro/jarvis/",
+          "href": "https://eventos.ARCKHÉ.pro/jarvis/",
           "icone": "camadas"
         },
         {
           "t": "Video: install your Jarvis",
-          "href": "https://inematds.github.io/intelecto-instalacao/videos/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "video"
         }
       ]

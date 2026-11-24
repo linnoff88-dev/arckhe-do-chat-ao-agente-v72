@@ -58,7 +58,7 @@
           "icone": "fila",
           "quando": "Week 3",
           "titulo": "Queues",
-          "sub": "inemaccbot and gate",
+          "sub": "ARCKHÉccbot and gate",
           "saida": "Tasks running overnight, with a gate on what matters.",
           "passo": "Requires steps 1 and 2. The queue on paper and the homemade queue come before the bot; the task night shows how many come out right on the first try."
         },
@@ -208,22 +208,22 @@
       "links": [
         {
           "t": "From chat to agent area",
-          "href": "https://eventos.inema.pro/do-chat-ao-agente/",
+          "href": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/",
           "icone": "camadas"
         },
         {
           "t": "The 23 exercises (journey guide)",
-          "href": "https://inematds.github.io/jornada-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Video series with scripts",
-          "href": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "video"
         },
         {
-          "t": "Open courses on INEMA.CLUB",
-          "href": "https://inema.club/",
+          "t": "Open courses on ARCKHÉ AI",
+          "href": "https://ARCKHÉ AI/",
           "icone": "seta"
         }
       ]

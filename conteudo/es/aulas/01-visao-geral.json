@@ -97,7 +97,7 @@
               "t": "Compuerta humana"
             }
           ],
-          "detalhe": "inemaccbot guarda cada pedido como una tarea, retoma desde donde se quedó y se detiene en una compuerta cuando necesita tu aprobación."
+          "detalhe": "ARCKHÉccbot guarda cada pedido como una tarea, retoma desde donde se quedó y se detiene en una compuerta cuando necesita tu aprobación."
         },
         {
           "icone": "megafone",
@@ -161,7 +161,7 @@
           "titulo": "Ya tengo un asistente",
           "sub": "Funcionando en Telegram",
           "texto": [
-            "Es la hora de la cola. Antes de instalar el <b>inemaccbot</b>, ejecuta la cola casera de 30 líneas para entender entrada, feito y falhou.",
+            "Es la hora de la cola. Antes de instalar el <b>ARCKHÉccbot</b>, ejecuta la cola casera de 30 líneas para entender entrada, feito y falhou.",
             "Después, haz una lista de 10 tareas repetitivas y marca dónde necesitas una compuerta."
           ],
           "exemplo": {

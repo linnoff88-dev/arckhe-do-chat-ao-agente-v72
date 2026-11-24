@@ -1,61 +1,61 @@
 {
   "id": "do-chat-ao-agente-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/do-chat-ao-agente-v72/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Do chat ao agente",
   "sub": "Visão geral da formação",
   "volta": {
     "t": "Área Do chat ao agente",
-    "href": "https://eventos.inema.pro/do-chat-ao-agente/", "href_en": "https://eventos.inema.pro/do-chat-ao-agente/en/", "href_es": "https://eventos.inema.pro/do-chat-ao-agente/es/"
+    "href": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/", "href_en": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/en/", "href_es": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/es/"
   },
   "lado_card": {
     "rot": "Prática desta formação",
     "t": "23 exercícios com \"pronto quando\"",
     "texto": "Quatro listas, uma por sequência. Só passe para o próximo quando ele for verdade.",
     "link": "Abrir os exercícios",
-    "href": "https://inematds.github.io/jornada-agentes/guia/", "href_en": "https://inematds.github.io/jornada-agentes/guia/en/", "href_es": "https://inematds.github.io/jornada-agentes/guia/es/"
+    "href": "https://linnoff88-dev.github.io/ "href_en": "https://linnoff88-dev.github.io/ "href_es": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/do-chat-ao-agente/\">eventos.inema.pro/do-chat-ao-agente</a> · <a href=\"https://inema.club/\">inema.club</a> · <a href=\"https://www.inema.club/cursos/323-do-chat-ao-agente-terminal-assistente-proprio-filas-e-redes-no-automatico/\">Ficha completa deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a>",
+  "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/do-chat-ao-agente/\">eventos.ARCKHÉ.pro/do-chat-ao-agente</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/cursos/323-do-chat-ao-agente-terminal-assistente-proprio-filas-e-redes-no-automatico/\">Ficha completa deste curso no ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a>",
   "videos": {
     "jornada-ia": {
       "titulo": "Do chat ao agente: a visão geral",
       "duracao": "2 min 27 s",
-      "mp4": "https://github.com/inematds/jornada-agentes/releases/download/video-v2.0.0/jornada-jornada-ia-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/jornada-agentes/releases/download/video-v2.0.0/jornada-jornada-ia-16x9.mp4",
       "vtt": "assets/vtt/jornada-ia.vtt",
       "poster": "assets/img/jornada-ia.jpg",
-      "pagina": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/", "idiomas": {"en": {"vtt": "assets/vtt/jornada-ia-en.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/en/"}, "es": {"vtt": "assets/vtt/jornada-ia-es.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/jornada-ia/es/"}}
+      "pagina": "https://linnoff88-dev.github.io/ "idiomas": {"en": {"vtt": "assets/vtt/jornada-ia-en.vtt", "pagina": "https://linnoff88-dev.github.io/ "es": {"vtt": "assets/vtt/jornada-ia-es.vtt", "pagina": "https://linnoff88-dev.github.io/
     },
     "seq1-oswork": {
       "titulo": "Do chat para o terminal",
       "duracao": "1 min 52 s",
-      "mp4": "https://github.com/inematds/jornada-agentes/releases/download/video-v2.0.0/jornada-seq1-oswork-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/jornada-agentes/releases/download/video-v2.0.0/jornada-seq1-oswork-16x9.mp4",
       "vtt": "assets/vtt/seq1-oswork.vtt",
       "poster": "assets/img/seq1-oswork.jpg",
-      "pagina": "https://inematds.github.io/jornada-agentes/serie/seq1-oswork/", "idiomas": {"en": {"vtt": "assets/vtt/seq1-oswork-en.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq1-oswork/en/"}, "es": {"vtt": "assets/vtt/seq1-oswork-es.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq1-oswork/es/"}}
+      "pagina": "https://linnoff88-dev.github.io/ "idiomas": {"en": {"vtt": "assets/vtt/seq1-oswork-en.vtt", "pagina": "https://linnoff88-dev.github.io/ "es": {"vtt": "assets/vtt/seq1-oswork-es.vtt", "pagina": "https://linnoff88-dev.github.io/
     },
     "seq2-jarvis": {
       "titulo": "Crie o seu Jarvis",
       "duracao": "1 min 33 s",
-      "mp4": "https://github.com/inematds/jornada-agentes/releases/download/video-v2.0.0/jornada-seq2-jarvis-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/jornada-agentes/releases/download/video-v2.0.0/jornada-seq2-jarvis-16x9.mp4",
       "vtt": "assets/vtt/seq2-jarvis.vtt",
       "poster": "assets/img/seq2-jarvis.jpg",
-      "pagina": "https://inematds.github.io/jornada-agentes/serie/seq2-jarvis/", "idiomas": {"en": {"vtt": "assets/vtt/seq2-jarvis-en.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq2-jarvis/en/"}, "es": {"vtt": "assets/vtt/seq2-jarvis-es.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq2-jarvis/es/"}}
+      "pagina": "https://linnoff88-dev.github.io/ "idiomas": {"en": {"vtt": "assets/vtt/seq2-jarvis-en.vtt", "pagina": "https://linnoff88-dev.github.io/ "es": {"vtt": "assets/vtt/seq2-jarvis-es.vtt", "pagina": "https://linnoff88-dev.github.io/
     },
     "seq3-filas": {
       "titulo": "Dez tarefas e vá dormir",
       "duracao": "1 min 33 s",
-      "mp4": "https://github.com/inematds/jornada-agentes/releases/download/video-v2.0.0/jornada-seq3-filas-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/jornada-agentes/releases/download/video-v2.0.0/jornada-seq3-filas-16x9.mp4",
       "vtt": "assets/vtt/seq3-filas.vtt",
       "poster": "assets/img/seq3-filas.jpg",
-      "pagina": "https://inematds.github.io/jornada-agentes/serie/seq3-filas/", "idiomas": {"en": {"vtt": "assets/vtt/seq3-filas-en.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq3-filas/en/"}, "es": {"vtt": "assets/vtt/seq3-filas-es.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq3-filas/es/"}}
+      "pagina": "https://linnoff88-dev.github.io/ "idiomas": {"en": {"vtt": "assets/vtt/seq3-filas-en.vtt", "pagina": "https://linnoff88-dev.github.io/ "es": {"vtt": "assets/vtt/seq3-filas-es.vtt", "pagina": "https://linnoff88-dev.github.io/
     },
     "seq4-redes": {
       "titulo": "Redes no automático",
       "duracao": "1 min 42 s",
-      "mp4": "https://github.com/inematds/jornada-agentes/releases/download/video-v2.0.0/jornada-seq4-redes-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/jornada-agentes/releases/download/video-v2.0.0/jornada-seq4-redes-16x9.mp4",
       "vtt": "assets/vtt/seq4-redes.vtt",
       "poster": "assets/img/seq4-redes.jpg",
-      "pagina": "https://inematds.github.io/jornada-agentes/serie/seq4-redes/", "idiomas": {"en": {"vtt": "assets/vtt/seq4-redes-en.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq4-redes/en/"}, "es": {"vtt": "assets/vtt/seq4-redes-es.vtt", "pagina": "https://inematds.github.io/jornada-agentes/serie/seq4-redes/es/"}}
+      "pagina": "https://linnoff88-dev.github.io/ "idiomas": {"en": {"vtt": "assets/vtt/seq4-redes-en.vtt", "pagina": "https://linnoff88-dev.github.io/ "es": {"vtt": "assets/vtt/seq4-redes-es.vtt", "pagina": "https://linnoff88-dev.github.io/
     }
   },
   "inicio": {
@@ -65,7 +65,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver a área da formação",
-      "href": "https://eventos.inema.pro/do-chat-ao-agente/"
+      "href": "https://eventos.ARCKHÉ.pro/do-chat-ao-agente/"
     },
     "capa_alt": "Do chat ao agente: a jornada em quatro sequências — terminal, Jarvis, filas e redes.",
     "numeros": [
@@ -95,7 +95,7 @@
           "rot": "Degrau 1 · 8 aulas",
           "t": "Do chat para o terminal",
           "l": "Abrir o terminal sem medo, instalar o agente, montar a pasta com regras, guardar cada versão com o Git e pôr a sua página no ar.",
-          "href": "https://inematds.github.io/do-chat-ao-agente-terminal-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/terminal.jpg"
         },
@@ -103,15 +103,15 @@
           "rot": "Degrau 2 · 8 aulas",
           "t": "O seu Jarvis",
           "l": "Um assistente com a memória e a personalidade que você definir: quatro arquivos de texto, núcleo construído com testes e conversa pelo Telegram.",
-          "href": "https://inematds.github.io/do-chat-ao-agente-jarvis-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/jarvis.jpg"
         },
         {
           "rot": "Degrau 3 · 7 aulas",
           "t": "Filas: dez tarefas e vá dormir",
-          "l": "Mande dez tarefas, vá dormir e confira de manhã: o que entra na fila, o inemaccbot e os portões antes do que importa.",
-          "href": "https://inematds.github.io/do-chat-ao-agente-filas-v72/",
+          "l": "Mande dez tarefas, vá dormir e confira de manhã: o que entra na fila, o ARCKHÉccbot e os portões antes do que importa.",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/filas.jpg"
         },
@@ -119,7 +119,7 @@
           "rot": "Degrau 4 · 8 aulas",
           "t": "Redes no automático",
           "l": "Reel em 7 etapas, vídeos por público e o canal do seu nicho que confere cada número e só publica o que você aprovou.",
-          "href": "https://inematds.github.io/do-chat-ao-agente-redes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/redes.jpg"
         }
