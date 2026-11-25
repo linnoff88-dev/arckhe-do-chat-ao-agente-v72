@@ -195,7 +195,7 @@
         {
           "rot": "Terminal · Git y secreto fuera del texto",
           "icone": "git",
-          "conteudo": "git init\necho .env> .gitignore\ngit add .\ngit commit -m \"primeira versão\"\n\n# desfazer uma mudança do agente:\ngit restore index.html\n\n# o .env NÃO pode aparecer aqui:\ngit status"
+          "conteudo": "git init\necho .env> .gitignore\ngit add .\ngit commit -m \"primeira versêo\"\n\n# desfazer uma mudança do agente:\ngit restore index.html\n\n# o .env NêO pode aparecer aqui:\ngit status"
         }
       ],
       "saida": {

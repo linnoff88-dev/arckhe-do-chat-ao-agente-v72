@@ -195,7 +195,7 @@
         {
           "rot": "Terminal · Git and keeping secrets out of the text",
           "icone": "git",
-          "conteudo": "git init\necho .env> .gitignore\ngit add .\ngit commit -m \"primeira versão\"\n\n# undo a change made by the agent:\ngit restore index.html\n\n# the .env must NOT show up here:\ngit status"
+          "conteudo": "git init\necho .env> .gitignore\ngit add .\ngit commit -m \"primeira versêo\"\n\n# undo a change made by the agent:\ngit restore index.html\n\n# the .env must NOT show up here:\ngit status"
         }
       ],
       "saida": {

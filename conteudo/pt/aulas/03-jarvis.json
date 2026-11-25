@@ -123,7 +123,7 @@
           "sub": "meu-jarvis.md",
           "texto": [
             "Antes de instalar, escreva quem é o assistente: nome, jeito de falar, três coisas que ele deve fazer toda semana, três que nunca deve fazer e o que precisa lembrar de você.",
-            "Esse arquivo responde às perguntas da instalação."
+            "Esse arquivo responde às perguntas da instalaçêo."
           ],
           "exemplo": {
             "rot": "Teste",
@@ -139,14 +139,14 @@
           ],
           "exemplo": {
             "rot": "Regra do degrau 1",
-            "texto": "O token não aparece em nenhum arquivo além do .env."
+            "texto": "O token nêo aparece em nenhum arquivo além do .env."
           }
         },
         {
           "titulo": "Instalar",
           "sub": "briefing + agente",
           "texto": [
-            "Clone o INTELECTO, exporte o seu briefing na página de comparação e peça ao Claude Code ou ao Codex que construa a partir dele e do <code>doc/intelecto.md</code>, com testes.",
+            "Clone o INTELECTO, exporte o seu briefing na página de comparaçêo e peça ao Claude Code ou ao Codex que construa a partir dele e do <code>doc/intelecto.md</code>, com testes.",
             "Use as respostas do seu meu-jarvis.md. O passo a passo completo está na aula 4 do curso do degrau 2."
           ],
           "exemplo": {
@@ -163,20 +163,20 @@
           ],
           "exemplo": {
             "rot": "Pedido fixo",
-            "texto": "Toda manhã, quando eu mandar \"dia\", liste as minhas três prioridades a partir do que eu te contei ontem."
+            "texto": "Toda manhê, quando eu mandar \"dia\", liste as minhas três prioridades a partir do que eu te contei ontem."
           }
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Modelo do desenho e a instalação",
+      "titulo": "Modelo do desenho e a instalaçêo",
       "sub": "Copie o modelo, preencha e só depois instale.",
       "blocos": [
         {
           "rot": "meu-jarvis.md",
           "icone": "arquivo",
-          "conteudo": "# Meu Jarvis\n\n## Nome e jeito de falar\nNome:\nComo fala (formal, direto, bem-humorado):\n\n## Deve fazer toda semana\n1.\n2.\n3.\n\n## Nunca deve fazer\n1.\n2.\n3.\n\n## O que precisa lembrar de mim\n- Profissão:\n- Rotina:\n- Preferências:"
+          "conteudo": "# Meu Jarvis\n\n## Nome e jeito de falar\nNome:\nComo fala (formal, direto, bem-humorado):\n\n## Deve fazer toda semana\n1.\n2.\n3.\n\n## Nunca deve fazer\n1.\n2.\n3.\n\n## O que precisa lembrar de mim\n- Profissêo:\n- Rotina:\n- Preferências:"
         },
         {
           "rot": "Terminal · baixar e provar o exemplo",
@@ -188,7 +188,7 @@
         "selo": "real",
         "abas": [
           {
-            "rot": "O que a construção precisa",
+            "rot": "O que a construçêo precisa",
             "html": "<ol><li>O <b>token do Telegram</b> (do @BotFather), só no .env.</li><li>O <b>modelo</b>: na nuvem (OpenRouter) ou local (Ollama).</li><li>A <b>personalidade</b>: o seu meu-jarvis.md.</li></ol>"
           },
           {
@@ -215,7 +215,7 @@
           "titulo": "E2 · O bot no Telegram",
           "min": "10 min",
           "texto": "Crie o bot no @BotFather com /newbot e guarde o token no .env.",
-          "pronto": "você tem o token e ele não aparece em nenhum arquivo além do .env."
+          "pronto": "você tem o token e ele nêo aparece em nenhum arquivo além do .env."
         },
         {
           "id": "e3",
@@ -259,23 +259,23 @@
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaçêo aparece depois da sua resposta.",
       "perguntas": [
         {
           "p": "Por que escrever o meu-jarvis.md antes de instalar?",
           "opcoes": [
             "Para economizar tokens do modelo.",
-            "Porque a instalação não funciona sem ele.",
-            "Porque o Telegram exige uma descrição.",
-            "Porque ele define nome, jeito, limites e o que lembrar, e responde às perguntas da instalação."
+            "Porque a instalaçêo nêo funciona sem ele.",
+            "Porque o Telegram exige uma descriçêo.",
+            "Porque ele define nome, jeito, limites e o que lembrar, e responde às perguntas da instalaçêo."
           ],
           "certa": 3,
-          "explica": "O desenho vem antes: com nome, jeito, o que fazer e o que nunca fazer escritos, você responde à configuração guiada sem improvisar e tem como avaliar se o assistente está certo.",
+          "explica": "O desenho vem antes: com nome, jeito, o que fazer e o que nunca fazer escritos, você responde à configuraçêo guiada sem improvisar e tem como avaliar se o assistente está certo.",
           "cert": true,
           "ref": "passos"
         },
         {
-          "p": "O assistente não lembrou o que você contou ontem. Qual o primeiro passo?",
+          "p": "O assistente nêo lembrou o que você contou ontem. Qual o primeiro passo?",
           "opcoes": [
             "Ver no curso como a memória é guardada e ajustar.",
             "Desinstalar e instalar de novo.",
@@ -283,19 +283,19 @@
             "Repetir os fatos todo dia."
           ],
           "certa": 0,
-          "explica": "O exercício E4 diz exatamente isso: se não lembrar, veja no curso do INTELECTO como a memória é guardada e ajuste.",
+          "explica": "O exercício E4 diz exatamente isso: se nêo lembrar, veja no curso do INTELECTO como a memória é guardada e ajuste.",
           "ref": "passos"
         },
         {
           "p": "Quando faz sentido um modelo local (Ollama)?",
           "opcoes": [
-            "Nunca, o Telegram não aceita.",
+            "Nunca, o Telegram nêo aceita.",
             "Só para rotinas de madrugada.",
             "Sempre, porque é mais inteligente.",
             "Quando o seu computador aguenta e os seus números de tempo, qualidade e custo mostram que vale."
           ],
           "certa": 3,
-          "explica": "A escolha é medida: mesma pergunta nos dois, tabela com tempo, qualidade e custo, e decisão com os seus números.",
+          "explica": "A escolha é medida: mesma pergunta nos dois, tabela com tempo, qualidade e custo, e decisêo com os seus números.",
           "ref": "codigo"
         }
       ]

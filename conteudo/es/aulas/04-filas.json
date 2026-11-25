@@ -151,12 +151,12 @@
         {
           "rot": "Terminal · cola casera (en el repositorio jornada-agentes)",
           "icone": "terminal",
-          "conteudo": "mkdir -p fila/entrada\necho \"Resuma em 5 linhas o que é uma fila de tarefas.\" > fila/entrada/01.md\necho \"Liste 3 riscos de deixar um agente rodando sozinho.\" > fila/entrada/02.md\n./ferramentas/fila-caseira.sh fila          # motor padrão: claude\n./ferramentas/fila-caseira.sh fila codex    # ou o codex"
+          "conteudo": "mkdir -p fila/entrada\necho \"Resuma em 5 linhas o que é uma fila de tarefas.\" > fila/entrada/01.md\necho \"Liste 3 riscos de deixar um agente rodando sozinho.\" > fila/entrada/02.md\n./ferramentas/fila-caseira.sh fila          # motor padrêo: claude\n./ferramentas/fila-caseira.sh fila codex    # ou o codex"
         },
         {
           "rot": "fila-no-papel.md",
           "icone": "arquivo",
-          "conteudo": "| Tarea | ¿Corre sola? | ¿Necesita compuerta? | Dónde está la compuerta |\n|---|---|---|---|\n| Transcrever a reunião | sí | no | — |\n| Post da semana | sí | sí | antes de publicar |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |"
+          "conteudo": "| Tarea | ¿Corre sola? | ¿Necesita compuerta? | Dónde está la compuerta |\n|---|---|---|---|\n| Transcrever a reuniêo | sí | no | — |\n| Post da semana | sí | sí | antes de publicar |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |"
         }
       ],
       "saida": {

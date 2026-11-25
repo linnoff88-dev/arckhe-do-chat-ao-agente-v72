@@ -5,7 +5,7 @@
   "titulo_curto": "Redes no automático",
   "minutos": 14,
   "lead": "O r7e monta o reel em sete etapas de gatilho. O promoavatar faz vídeos com avatar para cada público. Os xviral assistem ao que os maiores do nicho publicaram, conferem cada número e publicam com a fonte na tela. O motor é o mesmo: só muda o tema.",
-  "objetivo": "desenhar o canal do seu nicho com regras, base com fonte, roteiro conferido, agenda e portão antes de publicar.",
+  "objetivo": "desenhar o canal do seu nicho com regras, base com fonte, roteiro conferido, agenda e portêo antes de publicar.",
   "competencias": [
     "roteiro-r7e",
     "base-com-fonte",
@@ -27,7 +27,7 @@
     },
     {
       "icone": "calendario",
-      "t": "Agenda com portão"
+      "t": "Agenda com portêo"
     }
   ],
   "secoes": [
@@ -70,10 +70,10 @@
             {
               "icone": "chat",
               "t": "Trecho literal",
-              "sub": "achado na transcrição"
+              "sub": "achado na transcriçêo"
             }
           ],
-          "detalhe": "A partir da transcrição, cada número entra com quem disse, o vídeo e o trecho literal. Você confere cada trecho na transcrição.",
+          "detalhe": "A partir da transcriçêo, cada número entra com quem disse, o vídeo e o trecho literal. Você confere cada trecho na transcriçêo.",
           "forte": true
         },
         {
@@ -94,7 +94,7 @@
         },
         {
           "icone": "portao",
-          "titulo": "Portão",
+          "titulo": "Portêo",
           "sub": "Você aprova",
           "itens": [
             {
@@ -111,22 +111,22 @@
           "itens": [
             {
               "icone": "relogio",
-              "t": "Dia fraco não vira vídeo"
+              "t": "Dia fraco nêo vira vídeo"
             },
             {
               "icone": "enviar",
               "t": "Falha avisa no Telegram"
             }
           ],
-          "detalhe": "A frequência é decidida por você (ex.: segunda a sexta de madrugada e um longo no sábado). Dia sem assunto não vira vídeo, e falha avisa no Telegram."
+          "detalhe": "A frequência é decidida por você (ex.: segunda a sexta de madrugada e um longo no sábado). Dia sem assunto nêo vira vídeo, e falha avisa no Telegram."
         }
       ],
-      "volta": "Cada recusa no portão vira uma regra nova",
-      "legenda": "Sem fila e sem portão, automatizar rede social vira postar errado mais rápido.",
+      "volta": "Cada recusa no portêo vira uma regra nova",
+      "legenda": "Sem fila e sem portêo, automatizar rede social vira postar errado mais rápido.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "A esteira inteira",
-        "texto": "Referências e regras alimentam a base com fonte; a base limita o roteiro; o portão decide o que sai; a agenda publica só em dia com assunto. Cada recusa vira regra nova."
+        "texto": "Referências e regras alimentam a base com fonte; a base limita o roteiro; o portêo decide o que sai; a agenda publica só em dia com assunto. Cada recusa vira regra nova."
       }
     },
     {
@@ -142,7 +142,7 @@
           ],
           "exemplo": {
             "rot": "Exemplo",
-            "texto": "Você pode estar pagando aluguel acima do valor da sua região."
+            "texto": "Você pode estar pagando aluguel acima do valor da sua regiêo."
           }
         },
         {
@@ -160,11 +160,11 @@
           "titulo": "Medo",
           "sub": "O que ela perde",
           "texto": [
-            "O custo de não fazer nada, sem exagero."
+            "O custo de nêo fazer nada, sem exagero."
           ],
           "exemplo": {
             "rot": "Exemplo",
-            "texto": "Todo mês sem conferir é dinheiro que não volta."
+            "texto": "Todo mês sem conferir é dinheiro que nêo volta."
           }
         },
         {
@@ -180,7 +180,7 @@
         },
         {
           "titulo": "Descoberta",
-          "sub": "O nome da solução",
+          "sub": "O nome da soluçêo",
           "texto": [
             "Aqui entra o nome: a ferramenta, o método, o curso."
           ],
@@ -197,7 +197,7 @@
           ],
           "exemplo": {
             "rot": "Exemplo",
-            "texto": "Você chega na renovação do contrato com o número na mão."
+            "texto": "Você chega na renovaçêo do contrato com o número na mêo."
           }
         },
         {
@@ -221,12 +221,12 @@
         {
           "rot": "reel-r7e.md",
           "icone": "arquivo",
-          "conteudo": "| # | Etapa | Sua frase |\n|---|---|---|\n| 1 | Gancho (o resultado em 2 s) | |\n| 2 | Desejo | |\n| 3 | Medo | |\n| 4 | Facilidade | |\n| 5 | Descoberta (o nome da solução) | |\n| 6 | Benefício | |\n| 7 | Comentário (\"comenta PALAVRA\") | |"
+          "conteudo": "| # | Etapa | Sua frase |\n|---|---|---|\n| 1 | Gancho (o resultado em 2 s) | |\n| 2 | Desejo | |\n| 3 | Medo | |\n| 4 | Facilidade | |\n| 5 | Descoberta (o nome da soluçêo) | |\n| 6 | Benefício | |\n| 7 | Comentário (\"comenta PALAVRA\") | |"
         },
         {
           "rot": "regras.md",
           "icone": "escudo",
-          "conteudo": "# Regras do nicho: <seu nicho>\n\n## O que conta como fato\n- \n\n## Aviso obrigatório\n- Ex.: \"não é recomendação de investimento\" / \"não substitui consulta\"\n\n## Nunca publico\n- \n\n## Regras vindas de recusas no portão\n- "
+          "conteudo": "# Regras do nicho: <seu nicho>\n\n## O que conta como fato\n- \n\n## Aviso obrigatório\n- Ex.: \"nêo é recomendaçêo de investimento\" / \"nêo substitui consulta\"\n\n## Nunca publico\n- \n\n## Regras vindas de recusas no portêo\n- "
         },
         {
           "rot": "base.md",
@@ -239,11 +239,11 @@
         "abas": [
           {
             "rot": "Regra de ouro",
-            "html": "<p>Todo número do roteiro tem que estar na <code>base.md</code>, com o trecho literal achado na transcrição. Se algum não estiver, o roteiro volta.</p><p>É exatamente o que o <code>checar.py</code> do finviral faz sozinho.</p>"
+            "html": "<p>Todo número do roteiro tem que estar na <code>base.md</code>, com o trecho literal achado na transcriçêo. Se algum nêo estiver, o roteiro volta.</p><p>É exatamente o que o <code>checar.py</code> do finviral faz sozinho.</p>"
           },
           {
             "rot": "Os motores",
-            "html": "<ul><li><b>r7e</b>: reel em 7 etapas com portões de qualidade.</li><li><b>promoavatar</b>: um vídeo por público, 12 públicos, com portão no meio.</li><li><b>promoavatar3</b>: alcance, autoridade e promocional para o mesmo público.</li><li><b>finviral, saudeviral, advviral</b>: o mesmo motor em finanças, saúde e direito.</li></ul>"
+            "html": "<ul><li><b>r7e</b>: reel em 7 etapas com portões de qualidade.</li><li><b>promoavatar</b>: um vídeo por público, 12 públicos, com portêo no meio.</li><li><b>promoavatar3</b>: alcance, autoridade e promocional para o mesmo público.</li><li><b>finviral, saudeviral, advviral</b>: o mesmo motor em finanças, saúde e direito.</li></ul>"
           }
         ]
       }
@@ -272,7 +272,7 @@
           "titulo": "E3 · A base com fonte",
           "min": "30 min",
           "texto": "Transcreva um vídeo de referência e monte a base.md com número, quem disse, vídeo e trecho literal.",
-          "pronto": "cada linha tem o trecho literal e você achou cada um na transcrição."
+          "pronto": "cada linha tem o trecho literal e você achou cada um na transcriçêo."
         },
         {
           "id": "e4",
@@ -290,9 +290,9 @@
         },
         {
           "id": "e6",
-          "titulo": "E6 · O portão antes de publicar",
+          "titulo": "E6 · O portêo antes de publicar",
           "min": "1 semana",
-          "texto": "Rode uma semana com aprovação manual e anote cada recusa como regra.",
+          "texto": "Rode uma semana com aprovaçêo manual e anote cada recusa como regra.",
           "pronto": "você passou 3 dias seguidos sem precisar recusar.",
           "dias": 7
         }
@@ -308,10 +308,10 @@
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaçêo aparece depois da sua resposta.",
       "perguntas": [
         {
-          "p": "O roteiro traz um número que não está na base.md. O que fazer?",
+          "p": "O roteiro traz um número que nêo está na base.md. O que fazer?",
           "opcoes": [
             "Publicar, se o número parecer certo.",
             "Trocar por um número arredondado.",
@@ -319,32 +319,32 @@
             "Tirar a fonte da tela."
           ],
           "certa": 2,
-          "explica": "A regra do E4: todo número do roteiro está na base.md. Se não estiver, o roteiro volta.",
+          "explica": "A regra do E4: todo número do roteiro está na base.md. Se nêo estiver, o roteiro volta.",
           "cert": true,
           "ref": "diagrama"
         },
         {
           "p": "Qual é a primeira frase de um reel r7e?",
           "opcoes": [
-            "Uma apresentação pessoal.",
+            "Uma apresentaçêo pessoal.",
             "O nome da ferramenta.",
             "O ganho, o resultado em 2 segundos.",
             "O convite para comentar."
           ],
           "certa": 2,
-          "explica": "Gancho é o resultado em 2 segundos. O nome da solução só aparece na etapa 5 (descoberta).",
+          "explica": "Gancho é o resultado em 2 segundos. O nome da soluçêo só aparece na etapa 5 (descoberta).",
           "ref": "passos"
         },
         {
-          "p": "Quando é razoável tirar o portão de uma etapa?",
+          "p": "Quando é razoável tirar o portêo de uma etapa?",
           "opcoes": [
             "Na primeira semana, para ganhar tempo.",
-            "Nunca, o portão é obrigatório em tudo.",
+            "Nunca, o portêo é obrigatório em tudo.",
             "Depois de alguns dias seguidos sem precisar recusar nada.",
             "Quando o canal passar de mil inscritos."
           ],
           "certa": 2,
-          "explica": "O E6 pede três dias seguidos sem recusa. Só então pense em tirar o portão de alguma etapa.",
+          "explica": "O E6 pede três dias seguidos sem recusa. Só entêo pense em tirar o portêo de alguma etapa.",
           "ref": "pratica"
         }
       ]
